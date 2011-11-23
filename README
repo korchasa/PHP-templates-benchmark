@@ -1,0 +1,8 @@
+1. Скачать. Видимо уже
+2. Скачайте Limb, и положите его в папку lib. http://wiki.limb-project.com/doku.php?id=limb3:ru:how_to_download
+3. Положите в папку, отображаемую веб-сервером
+4. Дайте вашему веб-серверу доступ к кэшам. Например, запустите
+   chmod 777 `find | grep cache$`
+5. Тыкайте в кнопочки
+
+Все вопросы и пожелания принимаются по адресу korchasa@gmail.com и на форуме http://forum.limb-project.com/
